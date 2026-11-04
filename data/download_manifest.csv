@@ -1,0 +1,172 @@
+dataset,relative_path,url
+aprender,data/raw/aprender/2016/Aprender_2016_Directivos_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1rNAXYobiODArJVr8UL1HjNch_-793Qs2
+aprender,data/raw/aprender/2016/Aprender_2016_Directivos_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=18dc4JAnHNgm3Jq1YkiTMUiPc-r8Hz7FV
+aprender,data/raw/aprender/2016/Aprender_2016_Estudiantes_2_3grado_Secundaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1ik3kiFSH-h6xb-fskOs6804_8ZkaCC7b
+aprender,data/raw/aprender/2016/Aprender_2016_Estudiantes_3grado_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1HUXI4lrXqTFpK-UECP1cccx02cQ11yTE
+aprender,data/raw/aprender/2016/Aprender_2016_Estudiantes_5_6grado_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=13EQAWEdWLvQ3jJxp1ZChMiujcaIm0G84
+aprender,data/raw/aprender/2016/Aprender_2016_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1eX6WzPrMUPAuIyERzH6erlE78mrkrjKh
+aprender,data/raw/aprender/2017/Aprender_2017_Directivos_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1wQLAQttJFy5Rzz6GtFfHBJP-HKP0XSdO
+aprender,data/raw/aprender/2017/Aprender_2017_Estudiantes_5_6grado_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=12W1qhNBZzQbbdREy8QaZhmDor_c3BVqG
+aprender,data/raw/aprender/2017/Aprender_2017_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1mHwDtKuvrC7jigUmSGRN3tmpW0aYQdg-
+aprender,data/raw/aprender/2018/Aprender Primaria 2018 - Base Docentes.csv,https://drive.google.com/uc?export=download&id=1DkLxUxDd61tiGQrMdW3hcJ9iKzrGqYqv
+aprender,data/raw/aprender/2018/Aprender_2018_Directivos_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1Js2ZHAiqfhXl4x58GqoKuNeMw1JQmN7W
+aprender,data/raw/aprender/2018/Aprender_2018_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1rw1LqlllbUKhB_GWqsm5YzYrxTo9H_pX
+aprender,data/raw/aprender/2019/Aprender_2019_Directivos_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1cbQlsP8PB-rGedw4u2NVyzvlzsHO27J9
+aprender,data/raw/aprender/2019/Aprender_2019_Estudiantes_5_6grado_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1VD6-N6UmsXT8Ie6UEVZBRLB8QIlOMrH1
+aprender,data/raw/aprender/2019/Aprender_2019_Estudiantes_5_6grado_Secundaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1nGIqA2alDTcnglFvh10_ykMhzDmg7bXy
+aprender,data/raw/aprender/2021/Aprender_2021_Directivos_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1yr7lRLnBkKCzEsCxQ3F_HwVIFRKC0xHb
+aprender,data/raw/aprender/2021/Aprender_2021_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1LHnFu5KL4MmXm39sTNyqxJM1wQ40voqD
+aprender,data/raw/aprender/2022/Aprender_2022_Directivos_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1sKj1SvHne-2wXUrWcK3sJPlVFJTuc1tD
+aprender,data/raw/aprender/2022/Aprender_2022_Directivos_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1XQxChK7ByMIr_7hbOI5hariNk_4f1CRC
+aprender,data/raw/aprender/2022/Aprender_2022_Estudiantes_5_6grado_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1SUMVJGmUyEzNBAqDzQkQmvFpeUmuL9RQ
+aprender,data/raw/aprender/2022/Aprender_2022_Estudiantes_6grado_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1ADXXicK7U_atoddUQ--3cAquA3maYj37
+aprender,data/raw/aprender/2023/Aprender_2023_Directivos_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1TXu35b0kZyjCv_VCMpyVfEcnm5WGmPZa
+aprender,data/raw/aprender/2023/Aprender_2023_Docente_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1_SMpsUvREk0K2FI5D390MBxB0k-hpLWL
+aprender,data/raw/aprender/2023/Aprender_2023_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1NClWth2jBYb3PdnBNg86V7gTH10ftpAn
+aprender,data/raw/aprender/2024/Aprender_2024_Directivos_3grado_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1GQQTueINnwrYRINiL6JZFCd6pKwk85tN
+aprender,data/raw/aprender/2024/Aprender_2024_Directivos_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1QjHEitNzvTF19PJti7tKoL0C8dSvn6hD
+aprender,data/raw/aprender/2024/Aprender_2024_Docente_3grado_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=1S2YQIzaD94o5IZxVpHIeddDht3hhCoC-
+aprender,data/raw/aprender/2024/Aprender_2024_Estudiantes_3grado_Primaria_Muestral.csv,https://drive.google.com/uc?export=download&id=19rVOr44Ynen8WbxA5mS-iDYv29_fUkfW
+aprender,data/raw/aprender/2024/Aprender_2024_Estudiantes_5_6grado_Secundaria_Censal.csv,https://drive.google.com/uc?export=download&id=1_aCndB_YfQBRYEQ5RLxVkSfM76TSxq-1
+aprender,data/raw/aprender/2025/Aprender_2025_Directivos_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1XyqyCsE59OLOP_C-dc4NQ7TvTPPSPqYz
+aprender,data/raw/aprender/2025/Aprender_2025_Docente_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1Guf6muVImjUKf-ONG-ZaGHnprWWO-Vr0
+aprender,data/raw/aprender/2025/Aprender_2025_Estudiantes_6grado_Primaria_Censal.csv,https://drive.google.com/uc?export=download&id=1cpHwpSF5eB21f4WjbLAHDPbBxe10-8a2
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1yfsYLy3OZfwjRrUzheJ1_82AMWeraM3s
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_Cargos.csv,https://drive.google.com/uc?export=download&id=1JGJNXDTjBf_NC3oKz_NCfgrNrilXJwgF
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_CargosBis.csv,https://drive.google.com/uc?export=download&id=1fwo1DzEXAV7aBe8mj8SoQVmf6jVUuGa_
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_Matricula.csv,https://drive.google.com/uc?export=download&id=1icHEF2Xa0qo32DUN18Y2YmPrjC8EmHRc
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1HOHH6cTv2-LB1LZrOU3sWOW2gw-o2huK
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_Poblacion.csv,https://drive.google.com/uc?export=download&id=1-kl3dfubcOVIg0sTJOo7JbN5r72Hy5JQ
+relevamiento_anual,data/raw/relevamiento_anual/2011/RA_2011_Trayectoria.csv,https://drive.google.com/uc?export=download&id=18xVtc-Z-UofCSF6TVJyk8GLIE9FD6oNH
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1jSNtE60yfE1GsYgAxb86iKom2mnFvJeo
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_Cargos.csv,https://drive.google.com/uc?export=download&id=1wmGf6UBPVXJxTzLlWdKsBMs9hrpaNuXf
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_CargosBis.csv,https://drive.google.com/uc?export=download&id=1lt272aBUnPnin2tMxkTVpniVHwErUJ0n
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_Matricula.csv,https://drive.google.com/uc?export=download&id=1RcndjH8UtHgqbiM3_xdY_XW_mUB0k1WB
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1DDVu1CFK3h-luqDcsFVuGijBU0sDgRgC
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_Poblacion.csv,https://drive.google.com/uc?export=download&id=1DJQ0r40tJ55qpH2Ed-EBiyt85JjILs7x
+relevamiento_anual,data/raw/relevamiento_anual/2012/RA_2012_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1tFlf908fRc0lPAqYiBlNsYx0JxdXE8uh
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1SSVKfsQrOLJLE0IHDRihVfjDtAEaxg_z
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_Cargos.csv,https://drive.google.com/uc?export=download&id=1UX_Xu8DpZQcMnnd_EJfpXeSHEOvjUJyO
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_CargosBis.csv,https://drive.google.com/uc?export=download&id=1Hb2q8eMZ2rwWF_dTnYbuAkelOvBQ9SZd
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_Matricula.csv,https://drive.google.com/uc?export=download&id=1qVQ95xGouN_B_BYvboAMj-9fcQmlLT70
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1yM5BKWhGpLxZCEAaWzehv3GmFEDOj5VO
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_Poblacion.csv,https://drive.google.com/uc?export=download&id=1TxSTZsmO2_FU__e7Mw5fvpUCsGENYIoy
+relevamiento_anual,data/raw/relevamiento_anual/2013/RA_2013_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1S1R6e1MO92TNkqYVA4Qbz2sjagUoXPm7
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1Lpbi1ILYYkUl9Wgcpwu7lQFte_YXh70z
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_Cargos.csv,https://drive.google.com/uc?export=download&id=1ctWYFquzdPloYDoUUG5ZrFg0m6n5iYOQ
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_CargosBis.csv,https://drive.google.com/uc?export=download&id=1OkGKgRH8dB5n6GYotxmcLWH97-zWx3ga
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_Matricula.csv,https://drive.google.com/uc?export=download&id=1WHyYofpU7me7MhuIQ_5GvYwcW399NG6S
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1TKbSOMACqG7HVNBB0yrMfbG1MCOCAhLb
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_Poblacion.csv,https://drive.google.com/uc?export=download&id=1Z7WQ194ORVTLW5dfXomJ5jP_q1UTfyiT
+relevamiento_anual,data/raw/relevamiento_anual/2014/RA_2014_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1Rw1JqBhBbFszEiynZB4BvQQFB_3Wfrum
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1VjDuEHf4DWi3CVFxXdlZWqRxLO0ZZC7s
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_Cargos.csv,https://drive.google.com/uc?export=download&id=1SIINP4M2Ju7qAnaXxtcHk3WM_ZD_6UHT
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_CargosBis.csv,https://drive.google.com/uc?export=download&id=1dOJo9vJt807tG5S9tQok03NrUKh19bxH
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_Matricula.csv,https://drive.google.com/uc?export=download&id=18gdBM_oQ_o-BcFdACvpzGhU-sEBWPcdz
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1EKsTk3vas6lwaJvF8WZH2VywapzNvLSv
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_Poblacion.csv,https://drive.google.com/uc?export=download&id=15gPWHPq2lWW-3aq3BVLuU1PIFuJzKqqG
+relevamiento_anual,data/raw/relevamiento_anual/2015/RA_2015_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1UuRsWwsVsj0VctjeWL-YkvRGXzDWtOEL
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=12-IXAHEfglj4roDNiNBT_jdADzGt8Ulx
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_Cargos.csv,https://drive.google.com/uc?export=download&id=1hGASenKWERYBKbMtVkdKeQiENVqhhWMh
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_CargosBis.csv,https://drive.google.com/uc?export=download&id=1aNHVaXxipPIW_OCteqV53ZJmJivBfs5K
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_Matricula.csv,https://drive.google.com/uc?export=download&id=1PMHVIIGW0Xk651vY09iPjpGzdsPdq7S4
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1PNoX0N-MUA906-bvUD574pGmd6SksmTM
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_Poblacion.csv,https://drive.google.com/uc?export=download&id=1BjsM-wYjTMcNA5YX9k178osJZVFav8gS
+relevamiento_anual,data/raw/relevamiento_anual/2016/RA_2016_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1FUWQ9ttfZ3WLcuBUbi-KZ7jZWq9FQdIO
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=10oFLiSbwZp-SOkIsVclFvzFjx9h3CUEq
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_Cargos.csv,https://drive.google.com/uc?export=download&id=1Ef8R1CliB7n45ThtThR9S3AfL13FOfpQ
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_CargosBis.csv,https://drive.google.com/uc?export=download&id=10bYm4Lnzh4Ag--b-t5eKfP097Kvk7x6X
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_Matricula.csv,https://drive.google.com/uc?export=download&id=1tHa3zSzWNqI9Ospuyltb1QutFocIh9Gs
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=11lXWAt-AdaIgNX6QBc3E25Laubb6DFZp
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_Poblacion.csv,https://drive.google.com/uc?export=download&id=1_JtjfplIZgmkx3iXp6WO3-_sfAtG8DDx
+relevamiento_anual,data/raw/relevamiento_anual/2017/RA_2017_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1Yq2e7ZfLTmgmeS6zvBF0noO89qyd_iTf
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1O5E0dQGNClXIAHxVhPg7q_FQaVOY5bic
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_Cargos.csv,https://drive.google.com/uc?export=download&id=1mYISr6X636EwCVYzMLKqFe2606xOEsgq
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_CargosBis.csv,https://drive.google.com/uc?export=download&id=1hFCDnGRHIQgQMC2ek0-ZakuqHAYN1kLY
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_Matricula.csv,https://drive.google.com/uc?export=download&id=1m1Tb4Rl2SJQSo52H38yGrxHT3--mQlrF
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=16ebHYo7KmKNQrZgvXZvg9APFlOOUxxj7
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_Poblacion.csv,https://drive.google.com/uc?export=download&id=1NQWVFbNgayOl6N6kqNMEM03rPDC4Sc-7
+relevamiento_anual,data/raw/relevamiento_anual/2018/RA_2018_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1jdvI2uWRf8VGiZVG-QI8y_-v2txu9k9X
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2018_Matricula.csv,https://drive.google.com/uc?export=download&id=1DpobkcxKWbHgsoDs4yfUHOsTfs6qnXrn
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2018_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1V0ASEEEGwamuOXMe4uRD011uJSkwpoV_
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2019_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=13Hj7Gefz0sZOJe7p74uxOpFMtD70ZoJ3
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2019_Cargos.csv,https://drive.google.com/uc?export=download&id=1uP59smwwU9pcIjPCmQelL8ug5okX5Q5b
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2019_CargosBis.csv,https://drive.google.com/uc?export=download&id=1aTQNmsTQkTMr9KywE4sUBRfFV3ckCTmQ
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2019_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1yqYcJjYgwXTa-DTIV7XtdE2FjcoQSReJ
+relevamiento_anual,data/raw/relevamiento_anual/2019/RA_2019_Poblacion.csv,https://drive.google.com/uc?export=download&id=1BBCNpeNhIAwTMQvgRSn-xiS9Ix-5kufG
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1Oj4dkENVbRnn8ZZxR2Q1Q-xMB8dKYE40
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_Cargos.csv,https://drive.google.com/uc?export=download&id=13CF29e3AL7b_MrziDNsX2dlRYMqG9Bve
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_CargosBis.csv,https://drive.google.com/uc?export=download&id=15Rr9SNu88GN_AUp57bncGI9sN1yerxFC
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_MAtricula.csv,https://drive.google.com/uc?export=download&id=1hezzM5xx3z3TAHg669KoBmN1Q-_uf88b
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1ZmYXAFTeSTxMi1VHKR4ZNaaWZSVaYVMs
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_Poblacion.csv,https://drive.google.com/uc?export=download&id=14WeqG533P2dfefhFxjTRkq4SKJTt8uBG
+relevamiento_anual,data/raw/relevamiento_anual/2020/RA_2020_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1cLKUXt6_wRcZOh96pwxZwl8rHBEbQaJ-
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=14aSxfKG0g0QafSkxyxGrfeFsWYvMLCc-
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_Cargos.csv,https://drive.google.com/uc?export=download&id=1WQrYs8Sar-_cvLkWNabDuhcjkOk5l1HN
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_CargosBis.csv,https://drive.google.com/uc?export=download&id=1Enyya44Eux_srkTFuRICOfPkcn0f343o
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_Matricula.csv,https://drive.google.com/uc?export=download&id=1PmG_Nk-EedLuLprGX8-FU8K4faWdujWm
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1dBFJCAZ5l7-IgeAyqRvQcb7zKyF9LT-a
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_Poblacion.csv,https://drive.google.com/uc?export=download&id=1Y6lsYLGjmk-UfZ-ChZn2JnLS5l92_odb
+relevamiento_anual,data/raw/relevamiento_anual/2021/RA_2021_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1HadYmlDc_gVGe1plqOPxiMRxcEqxZJ6E
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1dIknHysmhFFSO93iIUfrCR60soalsSsS
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_Cargos.csv,https://drive.google.com/uc?export=download&id=1Hs2sTR_Bw5BNBHFGmqDBS2lE8F38vcrO
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_CargosBis.csv,https://drive.google.com/uc?export=download&id=1wZO78547J47kAAzFLK5ZAjm59WKRbsnH
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_Matricula.csv,https://drive.google.com/uc?export=download&id=1G-bVnbvtMZ2oTfnKpLbKhGOVM_-1gafc
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1LTYbwR7JxnAAn0P9089lyjlfxRp5D43_
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_Poblacion.csv,https://drive.google.com/uc?export=download&id=1buEH0xViJSS0v70_YFsDokhPNGZ9gLph
+relevamiento_anual,data/raw/relevamiento_anual/2022/RA_2022_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1ZYYZAgBhgettjtFd78_eBT_uW8AvBnN0
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1rAdUOvZ0B24bgpnL72ASJbkTlvKLFHnG
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_Cargos.csv,https://drive.google.com/uc?export=download&id=1KPMvqLg9nLd4n9zGj9MrBlNcs6fxHr_J
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_CargosBis.csv,https://drive.google.com/uc?export=download&id=1UHbX2m0M1CJHdQnETL2pEbrPXvCqKVwk
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_Matricula.csv,https://drive.google.com/uc?export=download&id=1hcHB1p0dnZueJKvGe-GHfuQy2Dx92csc
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1HQgS7IH9cUpJ6CCO7RVTezbAkuYL12r_
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_Poblacion.csv,https://drive.google.com/uc?export=download&id=1ACUYLfWQQF7WhQDC-0NDySiHzTWWTKFl
+relevamiento_anual,data/raw/relevamiento_anual/2023/RA_2023_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1Wxi9kuVqGvETfwgVFsCsSme2UmYBAnUG
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1tSfb7qXADurAWmE4_jQL3QKeR-525FTz
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_Cargos.csv,https://drive.google.com/uc?export=download&id=1wKXxJpfahnqUIFqYIo8zsND37Hq7QguA
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_CargosBis.csv,https://drive.google.com/uc?export=download&id=1O31Wlj3W8K1QjbYT-dPySc4T9ZFLFmT1
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_Matricula.csv,https://drive.google.com/uc?export=download&id=1V2WqSYuBCFx7Lz2IuxvSkp-DlQXHCpE_
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=13I9m2KWeasU94Al-25kTtVrSPnoMdiMP
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_Poblacion.csv,https://drive.google.com/uc?export=download&id=1g-3kqq9cirFxpGYB7Of_HKn1doNHSBuc
+relevamiento_anual,data/raw/relevamiento_anual/2024/RA_2024_Trayectoria.csv,https://drive.google.com/uc?export=download&id=17og-eLyau4IZcka78_rZwO-rH8MGBaxX
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_Caracteristicas.csv,https://drive.google.com/uc?export=download&id=1rbaYxRZBoefUAPAUhmFwQYXM12paHDcj
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_Cargos.csv,https://drive.google.com/uc?export=download&id=1yOijpaXrtAg_hbZBkGxYhT9Rhw5XieIN
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_CargosBis.csv,https://drive.google.com/uc?export=download&id=1BxFWWvYbCv_XJbCIspo49BcUlS4svDME
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_Matricula.csv,https://drive.google.com/uc?export=download&id=1U6e4rJ0RtOK25qp6YtvQFE-SRvZW_uB5
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_MatriculaPorEdad.csv,https://drive.google.com/uc?export=download&id=1yMAz-x6WNdEeEBO-6-4_jCwuhVkGgX6D
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_Poblacion.csv,https://drive.google.com/uc?export=download&id=1fQMnaTdmdh5Il7pcE4FTLK_3CUG-Z_FB
+relevamiento_anual,data/raw/relevamiento_anual/2025/RA_2025_Trayectoria.csv,https://drive.google.com/uc?export=download&id=1pMdniptbxXt91OrXxJXW5S577OT8syEn
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_HSE_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1zbbBtEQiqH-M_KNWN2TCqtMy0wRG2gbz
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_HSE.dta,https://drive.google.com/uc?export=download&id=1Xpek5HZDy1xUFIDeKEXYCzPvAJPuE0pN
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QA3_cuestionario.pdf,https://drive.google.com/uc?export=download&id=16Nr-hkRoPl-7ORPz5gEZ8po4gA4CyscD
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QA3.dta,https://drive.google.com/uc?export=download&id=1aH22ZHA-RJ0fBn5fcUz9CtXoQXj6vbBQ
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QA6_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1E9CK71czgpuaxABrYNVCEuVdeQgSeOUZ
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QA6.dta,https://drive.google.com/uc?export=download&id=1Z4Y3fAVLdSR3wjDp2991KM5A-c7SMpPV
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QD3_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1Q2y60jszXqcmhQ2QekTMyuqfdTdy0p2b
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QD3.dta,https://drive.google.com/uc?export=download&id=1wzzHGrLc3UgHYRnlnd1UwZz8Vlrel2bw
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QD6_cuestionario.pdf,https://drive.google.com/uc?export=download&id=19O2bKLFSINHkxu3yuZ8USgowemu0uLkj
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QD6.dta,https://drive.google.com/uc?export=download&id=189RlZDOfAEpMl3PL65Iv7N8dVqc5CnQj
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QF3_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1D4UVmzoOLFklN4wwP7com9FlKIOMb94t
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QF3.dta,https://drive.google.com/uc?export=download&id=1Qy1-XFgUgMeo9qzw5rHZLLPm4IrHNNM2
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QF6_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1m6YZJILewbmcIsWE6BqC__B58movFwbs
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QF6.dta,https://drive.google.com/uc?export=download&id=18ZZyEFqhQ4CTu5H1AsuDoBgMnlprIPK4
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QP3_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1BPmdbnmwxf00pUxCMWXJb7qis25QxOoH
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QP3.dta,https://drive.google.com/uc?export=download&id=1VgJAsIuNViYtJdj1ea-atiRV-alyq7uL
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QP6_cuestionario.pdf,https://drive.google.com/uc?export=download&id=1_AHMP8fs3U8MzPrCbTIphb1mi3t2ropo
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ERCE_2019_QP6.dta,https://drive.google.com/uc?export=download&id=1pSCQ6nrBHnHSEff92BBwrjH9tdqwIhAi
+erce,data/raw/erce/ERCE - Publico - Cuestionarios y datos/ManualERCE.pdf,https://drive.google.com/uc?export=download&id=1QVQgYXQSQ3CD5XpsUvteRxhF7yr37MGg
+pisa,data/raw/pisa/Pisa 2022/PISA_2022_dta/CY08MSP_SCH_QQQ.dta,https://drive.google.com/uc?export=download&id=1iebr2j5yMcYqxTdN9yT_g7_D2Lf6mix8
+pisa,data/raw/pisa/Pisa 2022/PISA_2022_dta/cy08msp_stu_qqq.dta,https://drive.google.com/uc?export=download&id=1dWffF3OGGMZU-1wiMvIq73nUJbkQy330
+pisa,data/raw/pisa/Pisa 2022/PISA_2022_dta/cy08msp_tch_qqq.dta,https://drive.google.com/uc?export=download&id=1QvpziDatOunarqg4ZqRcXJU4lnRyL_-H
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/eng-ZZZ_Argentina-ICT_Familiarity_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=1NrVV8iTExF3OvLyFOyfgIcYth1uV_cRi
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/eng-ZZZ_Argentina-School_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=1NUe6jmkAXkHDZ1IbxssfmJxczon6E0PA
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/eng-ZZZ_Argentina-Student_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=1-QqykpNYaXzH-odi-KWfS72mo04cHt2V
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/esp-ARG_Argentina-ICT_Familiarity_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=1tfRlgOp1ryTCFH9FYA318_axyYvfqayv
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/esp-ARG_Argentina-School_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=16KEpeQ3lBjuO8wu4yqL1BKRQaP-z5gXW
+pisa,data/raw/pisa/Pisa 2022/Argentina/ARG/esp-ARG_Argentina-Student_Questionnaire_MS22.pdf,https://drive.google.com/uc?export=download&id=1PjITM7bRdsyDn-z7h6EKz6nCRfYUrhe9
+teacher_salaries,data/raw/teacher_salaries/1._salario_bruto_mg10.xlsx,https://www.argentina.gob.ar/sites/default/files/1._salario_bruto_mg10.xlsx
+teacher_salaries,data/raw/teacher_salaries/2._salario_de_bolsillo_mg10_1.xlsx,https://www.argentina.gob.ar/sites/default/files/2._salario_de_bolsillo_mg10_1.xlsx
+teacher_salaries,data/raw/teacher_salaries/3._sueldo_basico.xlsx,https://www.argentina.gob.ar/sites/default/files/3._sueldo_basico.xlsx
+teacher_salaries,data/raw/teacher_salaries/4._porcentaje_de_componentes_remunerativos_sobre_el_salario_bruto_provincial_del_mg10_1.xlsx,https://www.argentina.gob.ar/sites/default/files/4._porcentaje_de_componentes_remunerativos_sobre_el_salario_bruto_provincial_del_mg10_1.xlsx
+teacher_salaries,data/raw/teacher_salaries/5._sumas_adicionales_0.xlsx,https://www.argentina.gob.ar/sites/default/files/5._sumas_adicionales_0.xlsx
+statutes,data/raw/statutes/provincial_statutes.zip,https://www.dropbox.com/scl/fo/q5u2smz5v8krbmfxjkylk/ANJLiNSHkuqa8ic9VcPZHW4?rlkey=r9b6t189ypg4m9venzwk2h00j&dl=1

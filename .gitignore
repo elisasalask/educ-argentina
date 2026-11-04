@@ -2,3 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Raw datasets are downloaded locally using R/00_download_data.R.
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+*.part
+.DS_Store
+
+/data/last_download_run.csv
