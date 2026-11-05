@@ -39,3 +39,11 @@ Pull before editing, coordinate changes to shared scripts, then commit and push 
 Use project-relative paths, such as `data/raw/aprender/2023/Aprender_2023_Docente_6grado_Primaria_Censal.csv`. Read CSVs after checking delimiter, encoding, missing values, and variable definitions. Use `haven::read_dta()` for Stata data and `readxl::read_excel()` for salary workbooks (install those packages if needed).
 
 The download setup does not clean data, verify the instructor-provided labels against questionnaires, or establish valid links across sources. PISA and ERCE analyses require appropriate survey weights and plausible values where relevant.
+
+## Interactive context page
+
+An English research-context explorer connects the four teaching-career dimensions to provincial primary-education context and reference salaries. The site is private to its owner:
+
+https://argentina-teaching-careers-context.politecourt.chatgpt.site
+
+`R/01_build_context_data.R` generates the aggregate datasets used by the page. Run it from this RStudio project after installing `readxl` and `jsonlite` if needed. It writes aggregates to the sibling `teaching-careers-context/dist/` directory; it does not rebuild or deploy the full website. School-level identifiers and individual questionnaire records are not included in website assets. The statutory comparison remains a research framework, not a completed legal coding exercise.
