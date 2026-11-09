@@ -50,14 +50,37 @@ for (i in seq_len(nrow(manifest))) {
   }
   results[[i]] <- data.frame(relative_path = destination, status = status, error = error)
 }
-# Extract the statutes archive after download, preserving the source folders.
+# Preserve archive contents, with documented local path corrections for review.
+statute_paths <- c(
+  "Mendoza/Estatuto Misiones - Decreto Ley N° 67.pdf" =
+    "Misiones/Estatuto Misiones - Decreto Ley N° 67.pdf",
+  "Córdoba/Córdoba - Decreto Profesionalidad Docente.pdf" =
+    "Córdoba/Córdoba - Boletín Oficial 2024-02-09 - Resolución 7-2024 Economía - Profesionalidad Docente.pdf"
+)
 statutes_zip <- "data/raw/statutes/provincial_statutes.zip"
 if ("statutes" %in% selected && file.exists(statutes_zip)) {
   members <- unzip(statutes_zip, list = TRUE)$Name
   safe <- !startsWith(members, "/") & !grepl("(^|/)\\.\\.(/|$)", members)
-  missing_members <- members[safe & !file.exists(file.path("data/raw/statutes", members))]
+  already_present <- file.exists(file.path("data/raw/statutes", members))
+  for (original in names(statute_paths)) {
+    # Avoid re-extracting an old path after its file was relocated or renamed.
+    if (file.exists(file.path("data/raw/statutes", statute_paths[[original]]))) {
+      already_present[members == original] <- TRUE
+    }
+  }
+  missing_members <- members[safe & !already_present]
   if (length(missing_members)) {
     unzip(statutes_zip, files = missing_members, exdir = "data/raw/statutes", overwrite = FALSE)
+  }
+}
+if ("statutes" %in% selected) {
+  for (original in names(statute_paths)) {
+    from <- file.path("data/raw/statutes", original)
+    to <- file.path("data/raw/statutes", statute_paths[[original]])
+    if (file.exists(from) && !file.exists(to)) {
+      dir.create(dirname(to), recursive = TRUE, showWarnings = FALSE)
+      if (!file.rename(from, to)) warning("Could not normalize statute path: ", original)
+    }
   }
 }
 options(timeout = old_timeout)

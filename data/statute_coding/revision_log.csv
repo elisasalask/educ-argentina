@@ -4,3 +4,4 @@ version,date,change,affected_cases,back_application
 0.1.0,2026-11-09,Distinguish provided/excluded/not_found/unclear and separate text confidence from legal currency,PBA_PRI;MIS_PRI;COR_PRI;COR_SEC,Applied to all pilot cases
 0.1.0,2026-11-09,Separate training/attendance pay from appraisal and advanced classroom ranks,PBA_PRI;MIS_PRI;COR_PRI;COR_SEC,Applied to all pilot cases
 0.1.0,2026-11-09,"Register instrument type, repeal, external rules and one-based PDF page references",PBA_PRI;MIS_PRI;COR_PRI;COR_SEC,Applied to all pilot cases
+0.1.1 (dataset; codebook unchanged),2026-11-09,"Clarify Córdoba art67 retained; arts70,71,73–77 repealed; art72 amended with external-law referral; resolve ministry/file label and attendance/training qualifiers.",COR_PRI;COR_SEC,Applied to both relevant Córdoba cases; source aliases preserved

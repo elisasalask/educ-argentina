@@ -13,13 +13,14 @@ stopifnot(!anyDuplicated(statute_coding$row_id), !anyDuplicated(statute_evidence
           all(statute_evidence$row_id %in% statute_coding$row_id),
           all(statute_evidence$document_id %in% statute_documents$document_id),
           all(table(statute_coding$case_id) == nrow(statute_codebook)))
-# Source downloads retain an archive folder-placement error for Misiones.
-# Resolve it for review without changing the original archive or other documents.
+# Resolve canonical names or original archive aliases without modifying sources.
 statute_documents$resolved_source_file <- statute_documents$source_file
-mis <- statute_documents$document_id == 'MIS1'
-if (any(mis) && !file.exists(statute_documents$source_file[mis])) {
-  original <- sub('/Misiones/','/Mendoza/',statute_documents$source_file[mis],fixed=TRUE)
-  if (file.exists(original)) statute_documents$resolved_source_file[mis] <- original
+for (i in seq_len(nrow(statute_documents))) {
+  if (!file.exists(statute_documents$source_file[i]) &&
+      nzchar(statute_documents$archive_source_file[i]) &&
+      file.exists(statute_documents$archive_source_file[i])) {
+    statute_documents$resolved_source_file[i] <- statute_documents$archive_source_file[i]
+  }
 }
 missing_sources <- statute_documents$source_file[!file.exists(statute_documents$resolved_source_file)]
 if(length(missing_sources)) warning('Some local source PDFs are missing. Run the download script and inspect statute_documents.')

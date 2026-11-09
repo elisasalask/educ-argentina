@@ -885,9 +885,9 @@
       "indicator": "Promotion mechanism",
       "provision_status": "provided",
       "coded_value": "competition_with_exam_external_rules",
-      "summary_en": "The primary text provides competitions of credentials, antecedents and examination for leadership/inspection, with a rural third-category exception.",
-      "exceptions_and_limits": "Its opening notes refer to Law 10237 governing leadership/inspection competitions; that full law is not supplied. Several old promotion provisions are marked repealed. Code the visible rule with incomplete external detail.",
-      "evidence_ids": "COR_PRI_PR01_E1;COR_PRI_PR01_E2",
+      "summary_en": "Article 67 retains the basic leadership/inspection promotion rule: competition of credentials, antecedents and examination, with a rural third-category exception. The complete procedure also requires Law 10237.",
+      "exceptions_and_limits": "The supplied text marks articles 70, 71 and 73–77 as repealed by article 20 of Law 10237. Article 72 is amended, not repealed: it regulates temporary leadership coverage and expressly refers to article 10 of that law. The full law is still to obtain. Confidence remains medium for completeness, not because article 67 is absent.",
+      "evidence_ids": "COR_PRI_PR01_E1;COR_PRI_PR01_E2;COR_PRI_PR01_E3;COR_PRI_PR01_E4",
       "text_interpretation_confidence": "medium",
       "legal_currency": "not_verified",
       "review_state": "awaiting_team_review",
@@ -905,8 +905,8 @@
       "indicator": "Promotion experience thresholds",
       "provision_status": "provided",
       "coded_value": "years_by_post",
-      "summary_en": "The printed primary schedule requires five years for urban third-category director, eight for vice-director, ten for second-category director and twelve for first-category director.",
-      "exceptions_and_limits": "Inspection posts have additional thresholds; article 67(e) is amended by Law 10237. Reconcile the complete external law before interpreting these as the final current requirements.",
+      "summary_en": "Article 67 retains explicit minimum teaching-service requirements: 5 years for urban third-category director, 8 for vice-director, 10 for second-category director, and 12 for first-category director.",
+      "exceptions_and_limits": "Inspection requirements also remain printed in article 67, including an amendment to paragraph (e). Law 10237 is needed to complete the procedure; the missing law does not erase these visible thresholds. Current legal force is still unverified.",
       "evidence_ids": "COR_PRI_PR02_E1;COR_PRI_PR02_E2",
       "text_interpretation_confidence": "medium",
       "legal_currency": "not_verified",
@@ -945,9 +945,9 @@
       "indicator": "Training or attendance pay incentive",
       "provision_status": "provided",
       "coded_value": "training_attendance_additional",
-      "summary_en": "The supplied 2024 ministerial Resolution 7 establishes a monthly 10% additional payment with concurrent professional-development and attendance conditions.",
-      "exceptions_and_limits": "Resolution, not decree: published in the bulletin stored under the misleading filename. Effective January 2024; conditions apply from the following month. Article 3 includes absence limits and protected-leave exclusions; article 4 and Annex I govern proportional payment/excluded situations. Not a measured teaching-quality bonus or a 2023 rule.",
-      "evidence_ids": "COR_PRI_PR04_E1;COR_PRI_PR04_E2;COR_PRI_PR04_E3",
+      "summary_en": "Economy and Public Management Ministry Resolution 7/2024 creates a monthly remunerative additional of 10% of usual remunerative components, conditional on mandatory training participation (and passing where required) and monthly attendance limits.",
+      "exceptions_and_limits": "Article 3: no more than 3 justified absences per month, or 5% of monthly obligations for hourly teachers; specified protected leave is excluded. No more than 1 unjustified absence. Passing training is required only if stipulated. Article 4 and Annex I govern proportional payment and excluded situations. Created effective January 2024, with conditions from the following month. This is not assessed teaching-performance pay; both Córdoba cases refer to the same instrument.",
+      "evidence_ids": "COR_PRI_PR04_E1;COR_PRI_PR04_E2;COR_PRI_PR04_E3;COR_PRI_PR04_E4;COR_PRI_PR04_E5",
       "text_interpretation_confidence": "high",
       "legal_currency": "not_verified",
       "review_state": "awaiting_team_review",
@@ -1265,9 +1265,9 @@
       "indicator": "Training or attendance pay incentive",
       "provision_status": "provided",
       "coded_value": "training_attendance_additional",
-      "summary_en": "Resolution 7/2024 establishes the same training- and attendance-conditioned 10% monthly additional for provincial teachers across levels, including this secondary case.",
-      "exceptions_and_limits": "Shared with Córdoba primary; do not count the two case rows as two distinct provincial policies. Protected leave and proportional-payment exceptions apply; this instrument postdates 2023.",
-      "evidence_ids": "COR_SEC_PR04_E1;COR_SEC_PR04_E2;COR_SEC_PR04_E3",
+      "summary_en": "Economy and Public Management Ministry Resolution 7/2024 creates a monthly remunerative additional of 10% of usual remunerative components, conditional on mandatory training participation (and passing where required) and monthly attendance limits.",
+      "exceptions_and_limits": "Article 3: no more than 3 justified absences per month, or 5% of monthly obligations for hourly teachers; specified protected leave is excluded. No more than 1 unjustified absence. Passing training is required only if stipulated. Article 4 and Annex I govern proportional payment and excluded situations. Created effective January 2024, with conditions from the following month. This is not assessed teaching-performance pay; both Córdoba cases refer to the same instrument.",
+      "evidence_ids": "COR_SEC_PR04_E1;COR_SEC_PR04_E2;COR_SEC_PR04_E3;COR_SEC_PR04_E4;COR_SEC_PR04_E5",
       "text_interpretation_confidence": "high",
       "legal_currency": "not_verified",
       "review_state": "awaiting_team_review",
@@ -2551,6 +2551,60 @@
       "article": "44",
       "excerpt_es": "también por el de las prórrogas de que fuera objeto aquélla.",
       "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_PRI_PR01_E3",
+      "row_id": "COR_PRI_PR01",
+      "document_id": "COR3",
+      "pdf_page": 19,
+      "article": "72 (opening); amended by Law 10237,19",
+      "excerpt_es": "El cargo directivo que quedare vacante o que por otra causa prevista normativamente no se encuentre temporalmente cubierto, será asumido automáticamente en carácter suplente o interino",
+      "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_PRI_PR01_E4",
+      "row_id": "COR_PRI_PR01",
+      "document_id": "COR3",
+      "pdf_page": 20,
+      "article": "72 (continuation)",
+      "excerpt_es": "La Dirección General de Nivel procederá de acuerdo a lo dispuesto en el artículo 10 de la Ley Nº 10237.",
+      "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_PRI_PR04_E4",
+      "row_id": "COR_PRI_PR04",
+      "document_id": "COR2",
+      "pdf_page": 3,
+      "article": "Resolution 7/2024,3(b), opening",
+      "excerpt_es": "no superar en el mes la cantidad de tres (3) inasistencias justificadas",
+      "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_PRI_PR04_E5",
+      "row_id": "COR_PRI_PR04",
+      "document_id": "COR2",
+      "pdf_page": 4,
+      "article": "Resolution 7/2024,3(b), continuation and protected leave",
+      "excerpt_es": "en el caso de docentes por hora, el 5% de las obligaciones correspondientes a cada mes -, no computándose a tal efecto las licencias anuales reglamentarias y todas las licencias con goce de haberes contempladas en el artículo 2° de la Ley N° 4356 y en las Leyes Nros. 9905 y 10318 y su reglamentación;",
+      "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_SEC_PR04_E4",
+      "row_id": "COR_SEC_PR04",
+      "document_id": "COR2",
+      "pdf_page": 3,
+      "article": "Resolution 7/2024,3(b), opening",
+      "excerpt_es": "no superar en el mes la cantidad de tres (3) inasistencias justificadas",
+      "evidence_role": "direct_provision"
+    },
+    {
+      "evidence_id": "COR_SEC_PR04_E5",
+      "row_id": "COR_SEC_PR04",
+      "document_id": "COR2",
+      "pdf_page": 4,
+      "article": "Resolution 7/2024,3(b), continuation and protected leave",
+      "excerpt_es": "en el caso de docentes por hora, el 5% de las obligaciones correspondientes a cada mes -, no computándose a tal efecto las licencias anuales reglamentarias y todas las licencias con goce de haberes contempladas en el artículo 2° de la Ley N° 4356 y en las Leyes Nros. 9905 y 10318 y su reglamentación;",
+      "evidence_role": "direct_provision"
     }
   ],
   "documents": [
@@ -2564,7 +2618,8 @@
       "sha256": "82acf377c82e213d2e89cea8954ab7d249260ce49df790f2e14267616df74378",
       "source_notes": "Contains amendments through listed laws including 14814; no currency verification.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Buenos Aires (PBA)/Estatuto Buenos Aires (PBA) - Ley 10579.pdf"
     },
     {
       "document_id": "MIS1",
@@ -2576,7 +2631,8 @@
       "sha256": "f6b4223c623306cef3072a0c243df12c9c5eeab15d6dba07b052ea488e7f9282",
       "source_notes": "Unofficial reproduction marked tribunadocente.com.ar; consolidation date unknown; article renumbering noted on page 1.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Mendoza/Estatuto Misiones - Decreto Ley N° 67.pdf"
     },
     {
       "document_id": "COR1",
@@ -2588,19 +2644,21 @@
       "sha256": "e51c733592dafd0c47f581b03338862805e59da14444f9fdae7c59414bfe9b2e",
       "source_notes": "Secondary source, not primary legislation. Full leave laws and decrees not supplied.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Córdoba/Cartilla Regimen de Licencias - 2024.pdf"
     },
     {
       "document_id": "COR2",
       "province": "Córdoba",
-      "source_file": "data/raw/statutes/Córdoba/Córdoba - Decreto Profesionalidad Docente.pdf",
+      "source_file": "data/raw/statutes/Córdoba/Córdoba - Boletín Oficial 2024-02-09 - Resolución 7-2024 Economía - Profesionalidad Docente.pdf",
       "instrument_type": "official_bulletin_resolution",
-      "instrument_title": "Economy Ministry Resolution 7,29 January 2024, bulletin 9 February 2024,pp 3-4",
+      "instrument_title": "Ministerio de Economía y Gestión Pública, Resolución N° 7/2024 (29 January 2024); Boletín Oficial, 9 February 2024, PDF pp. 3–4",
       "pages": "20",
       "sha256": "19807e3535c24276a1cb6088f88c66e7d7076ebeb950a405a98c2da58d84813c",
-      "source_notes": "File named Decreto Profesionalidad Docente is a full 20-page bulletin. Code only the relevant resolution, not unrelated instruments.",
+      "source_notes": "Full 20-page official bulletin, renamed locally to identify the resolution and issuing ministry. The original archive filename is preserved in archive_source_file. It is not a decree or an Education Ministry resolution.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Córdoba/Córdoba - Decreto Profesionalidad Docente.pdf"
     },
     {
       "document_id": "COR3",
@@ -2612,7 +2670,8 @@
       "sha256": "197866457fb395d2e8bdba75fbf8b3e06a0c74ad346b86e623435bf9b8cb9ec6",
       "source_notes": "Supplied text includes later amendment notes, including Law 10791(2022). Some legacy article cross-references have editorial numbering notes.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Córdoba/Estatuto Córdoba (Primaria) - Decreto Ley 1910-57.pdf"
     },
     {
       "document_id": "COR4",
@@ -2624,7 +2683,8 @@
       "sha256": "ff06f27f28b6f3fd71ea253f6e80605f0a102b05e84b57ae5b9987a377660374",
       "source_notes": "Amends articles 9,12,143, adds 17 bis and permits specific regularization; not a whole replacement statute.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Córdoba/Estatuto Córdoba (Secundaria modific) - Ley 10729.pdf"
     },
     {
       "document_id": "COR5",
@@ -2636,7 +2696,9 @@
       "sha256": "2fbfcff43e320cd7a01492e767c725c2f220756d40ac97e3fbd411519988773c",
       "source_notes": "Supplied consolidation incorporates Law 10729; higher-level-specific provisions are not transferred to this secondary case.",
       "legal_currency": "not_verified",
-      "extraction": "pypdf; whitespace normalized for excerpts"
+      "extraction": "pypdf; whitespace normalized for excerpts",
+      "archive_source_file": "data/raw/statutes/Córdoba/Estatuto Córdoba (Secundaria) - Decreto Ley 214.pdf"
     }
-  ]
+  ],
+  "dataset_revision": "0.1.1"
 }

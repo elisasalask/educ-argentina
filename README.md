@@ -50,7 +50,7 @@ https://argentina-teaching-careers-context.politecourt.chatgpt.site
 
 ## Statute coding pilot
 
-The first draft covers Buenos Aires, Misiones and Córdoba primary education, with Córdoba secondary stored as a separate extension. It includes 16 indicators, 64 decisions, 124 source excerpts and a review queue. All decisions await team review; current legal force is not verified.
+The first draft covers Buenos Aires, Misiones and Córdoba primary education, with Córdoba secondary stored as a separate extension. It includes 16 indicators, 64 decisions, 130 source excerpts and a review queue. All decisions await team review; current legal force is not verified.
 
 - Start with `docs/statute_coding/pilot_review.html` (open in a browser).
 - Read `docs/statute_coding/pilot_findings.md` for the comparison.

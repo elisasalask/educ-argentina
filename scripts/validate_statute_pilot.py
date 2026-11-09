@@ -17,7 +17,7 @@ for c in {r['case_id'] for r in rows}:
 source={};source_paths={}
 for doc in docs:
  p=root/doc['source_file']
- if not p.exists() and doc['document_id']=='MIS1':p=root/doc['source_file'].replace('/Misiones/','/Mendoza/')
+ if not p.exists() and doc.get('archive_source_file'):p=root/doc['archive_source_file']
  check(p.exists(),'Missing PDF '+str(p))
  if not p.exists():continue
  check(hashlib.sha256(p.read_bytes()).hexdigest()==doc['sha256'],'Changed PDF '+str(p))

@@ -1,6 +1,6 @@
 # Provincial statute coding pilot
 
-This first draft codes the supplied documents for Buenos Aires, Misiones and Córdoba against a common codebook. It is ready for team review, not a completed validation of the law currently in force. The pilot has 16 indicators, 64 decisions, 124 Spanish evidence excerpts and seven source PDFs.
+This first draft codes the supplied documents for Buenos Aires, Misiones and Córdoba against a common codebook. It is ready for team review, not a completed validation of the law currently in force. The pilot has 16 indicators, 64 decisions, 130 Spanish evidence excerpts and seven source PDFs.
 
 ## Start here
 
@@ -72,3 +72,5 @@ source("R/02_load_statute_pilot.R")
 This loads the codebook, coding, evidence and document inventory, checks keys and produces `statute_pilot_full`, a long table with source references. To rebuild the exported tables and review page after editing canonical decisions, run `scripts/export_statute_pilot.py` using Python 3. That exporter does not recode the laws automatically. The evidence-validation script additionally needs `pypdf`.
 
 The source PDFs stay in ignored local raw-data folders. The original Dropbox ZIP places Misiones inside Mendoza. Its canonical path in this pilot is `data/raw/statutes/Misiones/`; the R loader also recognizes the original archive location so teammates can review the same source without moving it first.
+
+Dataset revision 0.1.1 clarifies Córdoba article 67, the amendment/repeal distinction around article 72, and the Economy Ministry resolution conditions. Indicator definitions remain codebook 0.1.0. Original archive filenames are retained in `archive_source_file`; the R loader and validator recognize these aliases.
