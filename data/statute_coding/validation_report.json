@@ -1,0 +1,36 @@
+{
+  "coded_date": "2026-11-09",
+  "codebook_version": "0.1.0",
+  "coding_decisions": 64,
+  "evidence_excerpts": 124,
+  "documents": 7,
+  "provinces": 3,
+  "comparison_cases": 4,
+  "status_counts": {
+    "provided": 54,
+    "unclear": 4,
+    "not_found": 6
+  },
+  "checks_passed": true,
+  "errors": [],
+  "checks": [
+    "Case/indicator completeness",
+    "Keys and joins",
+    "Permitted status and descriptive codes",
+    "PDF existence, SHA-256 and page count",
+    "Exact whitespace-normalized excerpt on cited PDF page"
+  ],
+  "selected_pages_visually_inspected": [
+    "PBA1:18",
+    "MIS1:6",
+    "COR3:19",
+    "COR5:9",
+    "COR2:3",
+    "COR4:2"
+  ],
+  "limitations": [
+    "Source matching does not validate English interpretations or prove absence.",
+    "No independent second coder or adjudication.",
+    "Current legal force and completeness of external regulations not verified."
+  ]
+}

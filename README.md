@@ -47,3 +47,14 @@ An English research-context explorer connects the four teaching-career dimension
 https://argentina-teaching-careers-context.politecourt.chatgpt.site
 
 `R/01_build_context_data.R` generates the aggregate datasets used by the page. Run it from this RStudio project after installing `readxl` and `jsonlite` if needed. It writes aggregates to the sibling `teaching-careers-context/dist/` directory; it does not rebuild or deploy the full website. School-level identifiers and individual questionnaire records are not included in website assets. The statutory comparison remains a research framework, not a completed legal coding exercise.
+
+## Statute coding pilot
+
+The first draft covers Buenos Aires, Misiones and Córdoba primary education, with Córdoba secondary stored as a separate extension. It includes 16 indicators, 64 decisions, 124 source excerpts and a review queue. All decisions await team review; current legal force is not verified.
+
+- Start with `docs/statute_coding/pilot_review.html` (open in a browser).
+- Read `docs/statute_coding/pilot_findings.md` for the comparison.
+- See `docs/statute_coding/README.md` for definitions and the iteration protocol.
+- In RStudio, run `source("R/02_load_statute_pilot.R")` to load the tables.
+
+The review document is local and does not replace or update the earlier hosted context page. The source archive's misplaced Misiones PDF has been identified; it belongs to Misiones, despite its original Mendoza folder.

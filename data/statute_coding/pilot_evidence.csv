@@ -1,0 +1,125 @@
+evidence_id,row_id,document_id,pdf_page,article,excerpt_es,evidence_role
+PBA_PRI_AS01_E1,PBA_PRI_AS01,PBA1,18,57(a)-(e);58,Poseer título docente habilitante para el cargo u horas-cátedra a desempeñar.,direct_provision
+PBA_PRI_AS02_E1,PBA_PRI_AS02,PBA1,18,59(a),"En cargos de base, por concurso de títulos y antecedentes.",direct_provision
+PBA_PRI_AS02_E2,PBA_PRI_AS02,PBA1,20,64,En ningún caso podrán efectuarse designaciones prescindiendo del orden de méritos establecido por los Tribunales de Clasificación.,direct_provision
+PBA_PRI_AS03_E1,PBA_PRI_AS03,PBA1,8,17,"El personal docente titular tendrá derecho a la estabilidad en el cargo, categoría, jerarquía y ubicación o destino",direct_provision
+PBA_PRI_AS03_E2,PBA_PRI_AS03,PBA1,20,65,"La designación del personal docente tendrá carácter de titular interino hasta que, el mismo apruebe el examen psico-físico y fuese calificado con seis (6) puntos como mínimo.",direct_provision
+PBA_PRI_AS03_E3,PBA_PRI_AS03,PBA1,4,8,"a excepción de los enumerados en los incisos a), c), d),e), i), k), ñ) y o).",direct_provision
+PBA_PRI_AS04_E1,PBA_PRI_AS04,PBA1,8,18(b),"dos (2) calificaciones inferiores a seis (6) puntos en un período de cinco (5) años, o una calificación inferior a cuatro (4) puntos",direct_provision
+PBA_PRI_AS04_E2,PBA_PRI_AS04,PBA1,35,137,sin la sustanciación previa de sumario que asegure a los afectados la mayor garantía en las actuaciones y pleno derecho de defensa.,direct_provision
+PBA_PRI_PR01_E1,PBA_PRI_PR01,PBA1,22,76(a)-(b),"Por concurso de títulos, antecedentes y oposición",direct_provision
+PBA_PRI_PR01_E2,PBA_PRI_PR01,PBA1,22,75,La asignación de funciones jerárquicas implica el desempeño de un cargo superior sin estabilidad.,direct_provision
+PBA_PRI_PR02_E1,PBA_PRI_PR02,PBA1,22,80(d),"Reúna las demás condiciones exigidas para el cargo al que aspira, determinadas por la reglamentación.",direct_provision
+PBA_PRI_PR03_E1,PBA_PRI_PR03,PBA1,11,33,A los 10 años 50%,direct_provision
+PBA_PRI_PR03_E2,PBA_PRI_PR03,PBA1,11,33,A los 24 años 120%,direct_provision
+PBA_PRI_PR04_E1,PBA_PRI_PR04,PBA1,32,125,Las faltas de puntualidad y las inasistencias no justificadas darán lugar a descuento que se aplicará a la remuneración.,search_context
+PBA_PRI_PR04_E2,PBA_PRI_PR04,PBA1,11,31(b)-(f),La bonificación por antigüedad.,search_context
+PBA_PRI_MP01_E1,PBA_PRI_MP01,PBA1,33,127,"El personal docente titular, titular interino, provisional y suplente será calificado anualmente por su superior jerárquico.",direct_provision
+PBA_PRI_MP02_E1,PBA_PRI_MP02,PBA1,22,80(c),Haya merecido una calificación no menor a ocho (8) puntos en los dos (2) últimos años,direct_provision
+PBA_PRI_MP02_E2,PBA_PRI_MP02,PBA1,16,51,multiplicando el promedio de calificaciones por la suma de los títulos y la antigüedad.,direct_provision
+PBA_PRI_MP03_E1,PBA_PRI_MP03,PBA1,33,128,El interesado tendrá derecho a conocer la documentación mencionada y podrá impugnarla,direct_provision
+PBA_PRI_MP03_E2,PBA_PRI_MP03,PBA1,33,129,"los recursos de revocatoria, ante el agente calificador, y jerárquico en subsidio, ante el tribunal de clasificación central.",direct_provision
+PBA_PRI_MP04_E1,PBA_PRI_MP04,PBA1,6,"11(a), item XV",Ingreso por Cargos de Base: Maestro. Maestro Especial. Técnico Docente.,search_context
+PBA_PRI_MP04_E2,PBA_PRI_MP04,PBA1,21,74,Los ascensos con carácter titular constituyen la promoción de un cargo superior con estabilidad,search_context
+PBA_PRI_CT01_E1,PBA_PRI_CT01,PBA1,3,6(d),"Ampliar su cultura y su formación pedagógica, procurando su perfeccionamiento.",direct_provision
+PBA_PRI_CT01_E2,PBA_PRI_CT01,PBA1,41,171(g),"La organización de cursos de capacitación docente en los establecimientos, para los docentes en actividad.",direct_provision
+PBA_PRI_CT02_E1,PBA_PRI_CT02,PBA1,19,60(h),Otros títulos y certificaciones bonificantes.,direct_provision
+PBA_PRI_CT02_E2,PBA_PRI_CT02,PBA1,19,61,no perderán validez ni disminuirán su puntaje durante su carrera.,direct_provision
+PBA_PRI_CT03_E1,PBA_PRI_CT03,PBA1,31,115(a),Por estudio o perfeccionamiento docente.,direct_provision
+PBA_PRI_CT03_E2,PBA_PRI_CT03,PBA1,31,116,"La reglamentación establecerá el tiempo, modalidades y condiciones de otorgamiento según la situación de revista del docente.",direct_provision
+PBA_PRI_CT04_E1,PBA_PRI_CT04,PBA1,29,108(a),Con los postulantes inscriptos en el listado confeccionado por el tribunal de clasificación,direct_provision
+PBA_PRI_CT04_E2,PBA_PRI_CT04,PBA1,29,110(a),Al reintegrarse el titular o provisional ausente.,direct_provision
+MIS_PRI_AS01_E1,MIS_PRI_AS01,MIS1,5,14(d),Poseer el título oficial que corresponda.,direct_provision
+MIS_PRI_AS01_E2,MIS_PRI_AS01,MIS1,11,61,Para ingresar en la docencia primaria se requerirá contar como máximo con cuarenta (40) años de edad a la fecha de la designación.,direct_provision
+MIS_PRI_AS02_E1,MIS_PRI_AS02,MIS1,11,61,"El ingreso en la enseñanza primaria se hará por concurso de títulos y antecedentes, con el complemento de pruebas de oposición en los casos en que se consideren necesarios.",direct_provision
+MIS_PRI_AS03_E1,MIS_PRI_AS03,MIS1,6,20,tendrá derecho a la estabilidad mientras conserve las condiciones exigidas,direct_provision
+MIS_PRI_AS03_E2,MIS_PRI_AS03,MIS1,13,78,El personal interino y suplente cesará automáticamente por presentación del titular del cargo;,direct_provision
+MIS_PRI_AS04_E1,MIS_PRI_AS04,MIS1,11,56,"no podrán ser aplicadas sin sumario previo, que asegure al imputado el derecho de defensa.",direct_provision
+MIS_PRI_AS04_E2,MIS_PRI_AS04,MIS1,11,56,se podrá aplicar hasta treinta días de suspensión sin sumario previo,direct_provision
+MIS_PRI_PR01_E1,MIS_PRI_PR01,MIS1,13,66,"Los ascensos a los cargos de Vicedirector , Director, Secretario de Inspección, se harán por concurso de antecedentes y de oposición",direct_provision
+MIS_PRI_PR02_E1,MIS_PRI_PR02,MIS1,13,73,Para optar al cargo de Vicedirector se requerirá una antiguedad mínima de cinco (5) años en el cargo de maestro.,direct_provision
+MIS_PRI_PR02_E2,MIS_PRI_PR02,MIS1,13,74,dos (2) años de servicios efectivos en el cargo de Vice-Director o siete (7) años en la docencia cualquiera sea su jerarquía.,direct_provision
+MIS_PRI_PR03_E1,MIS_PRI_PR03,MIS1,9,39,a los diez años de antiguedad: 38%,direct_provision
+MIS_PRI_PR03_E2,MIS_PRI_PR03,MIS1,9,39,a los veintiocho años de antiguedad 120%,direct_provision
+MIS_PRI_PR03_E3,MIS_PRI_PR03,MIS1,8,36,sobre la asignación correspondiente al cargo desempeñado.,direct_provision
+MIS_PRI_PR04_E1,MIS_PRI_PR04,MIS1,8,36(c)-(d),Las bonificaciones por antigüedad;,search_context
+MIS_PRI_PR04_E2,MIS_PRI_PR04,MIS1,10,45,los índices por bonificaciones en concepto de función diferenciada y prolongación habitual de la jornada.,search_context
+MIS_PRI_MP01_E1,MIS_PRI_MP01,MIS1,6,23,"La calificación será anual, apreciará las condiciones y aptitudes del docente, se basará en las constancias objetivas del legajo",direct_provision
+MIS_PRI_MP02_E1,MIS_PRI_MP02,MIS1,7,27(b),"Haya merecido concepto sintético no inferior a ""Bueno"" en los dos últimos años.",direct_provision
+MIS_PRI_MP02_E2,MIS_PRI_MP02,MIS1,13,70(a),Eficacia y responsabilidad en la función docente;,direct_provision
+MIS_PRI_MP03_E1,MIS_PRI_MP03,MIS1,6,22,"conocer toda la documentación que figure en dicho legajo, impugnarla",direct_provision
+MIS_PRI_MP03_E2,MIS_PRI_MP03,MIS1,6,23,dentro de los diez días de notificado.,direct_provision
+MIS_PRI_MP04_E1,MIS_PRI_MP04,MIS1,12,65,Escuelas Comunes y de Adultos: 1. Maestro o Maestro Secretario; 2. Vicedirector; 3. Director; 4. Supervisor o Supervisor de Zona.,search_context
+MIS_PRI_CT01_E1,MIS_PRI_CT01,MIS1,2,5(e),Ampliar su cultura y propender al perfeccionamiento de su capacidad pedagógica;,direct_provision
+MIS_PRI_CT01_E2,MIS_PRI_CT01,MIS1,6,24,mediante cursos de perfeccionamiento y becas de estudios e investigación en el país y en el extranjero.,direct_provision
+MIS_PRI_CT02_E1,MIS_PRI_CT02,MIS1,11,61(g),"Publicaciones, estudios y actividades vinculadas con la enseñanza.",direct_provision
+MIS_PRI_CT02_E2,MIS_PRI_CT02,MIS1,13,70(d),"Títulos, Estudios, publicaciones y otras actividades docentes.",direct_provision
+MIS_PRI_CT03_E1,MIS_PRI_CT03,MIS1,3,6(l),Un año de licencia con goce de haberes en todos sus cargos a los cinco años como mínimo en el ejercicio de la docencia y cada diez años en lo sucesivo,direct_provision
+MIS_PRI_CT04_E1,MIS_PRI_CT04,MIS1,14,79,"las listas de aspirantes a suplencias, por orden de méritos",direct_provision
+MIS_PRI_CT04_E2,MIS_PRI_CT04,MIS1,14,80 bis,a interino será automático cuando exista la plena vacancia del cargo.,direct_provision
+COR_PRI_AS01_E1,COR_PRI_AS01,COR3,4,11(a),tener diez (10) años como mínimo de residencia continuada en el país y dominar el idioma castellano.,direct_provision
+COR_PRI_AS01_E2,COR_PRI_AS01,COR3,4,11(c),"Poseer para la enseñanza Primaria, el Título de Maestro Superior, Maestro Normal o Rural",direct_provision
+COR_PRI_AS02_E1,COR_PRI_AS02,COR3,5,14,se someterán a un concurso de títulos y antecedentes,direct_provision
+COR_PRI_AS02_E2,COR_PRI_AS02,COR3,7,14(f),La Junta de Clasificación confeccionara una lista por orden decreciente de meritos de todos los inscriptos,direct_provision
+COR_PRI_AS03_E1,COR_PRI_AS03,COR3,12,34,El personal titular comprendido en el presente Estatuto tendrá derecho a la estabilidad en el cargo,direct_provision
+COR_PRI_AS03_E2,COR_PRI_AS03,COR3,8,16(c),A partir de ese momento tendrá los derechos y deberes inherentes a una designación efectiva.,direct_provision
+COR_PRI_AS04_E1,COR_PRI_AS04,COR3,14,44,"Ninguna de las sanciones especificadas en los incisos e), f), g) y h) del artículo 40, podrá ser aplicada sin la sustanciación previa del sumario que asegure a los interesados el derecho de defensa.",direct_provision
+COR_PRI_AS04_E2,COR_PRI_AS04,COR3,18,66,obtenga una calificación de “Insuficiente” en su apreciación sintética durante dos años,direct_provision
+COR_PRI_AS04_E3,COR_PRI_AS04,COR3,19,"66, continuation","consecutivos, se hará pasible de cesantía.",direct_provision
+COR_PRI_PR01_E1,COR_PRI_PR01,COR3,19,67,"con excepción del Director de Tercera Categoría de zona rural, se proveerán por concurso de títulos, antecedentes y oposición.",direct_provision
+COR_PRI_PR01_E2,COR_PRI_PR01,COR3,1,"Opening observation, Law 10237",QUE REGULA LOS CONCURSOS PARA CARGOS DIRECTIVOS E INSPECCIÓN DEL MINISTERIO DE EDUCACIÓN,direct_provision
+COR_PRI_PR02_E1,COR_PRI_PR02,COR3,19,67(a)-(d),"Para Vicedirector, ocho años.",direct_provision
+COR_PRI_PR02_E2,COR_PRI_PR02,COR3,19,67(d),"Para Director de Primera Categoría, doce años.",direct_provision
+COR_PRI_PR03_E1,COR_PRI_PR03,COR3,21,81,"DEROGADO POR ART. 29°, L. Nº 6030",direct_provision
+COR_PRI_PR03_E2,COR_PRI_PR03,COR3,1,"Opening observation, Decree 1001/14",LAS REMUNERACIONES ALCANZADAS PARA TODO EL PERSONAL DOCENTE ESTÁN DETERMINADAS POR EL PRESENTE DECRETO.,direct_provision
+COR_PRI_PR04_E1,COR_PRI_PR04,COR2,3,"Resolution 7/2024,1",diez por ciento (10%) del total de los conceptos remunerativos habituales,direct_provision
+COR_PRI_PR04_E2,COR_PRI_PR04,COR2,3,"Resolution 7/2024,3(a)",participar – y aprobar en caso que se disponga – de las instancias de desarrollo profesional,direct_provision
+COR_PRI_PR04_E3,COR_PRI_PR04,COR2,4,"Resolution 7/2024,3(c)",no superar en el mes la cantidad de una (1) inasistencia injustificada.,direct_provision
+COR_PRI_MP01_E1,COR_PRI_MP01,COR3,16,59,"La calificación será anual, y con motivo de traslado o ascenso;",direct_provision
+COR_PRI_MP02_E1,COR_PRI_MP02,COR3,16,59,"La calificación será anual, y con motivo de traslado o ascenso;",direct_provision
+COR_PRI_MP02_E2,COR_PRI_MP02,COR3,19,70,DEROGADO POR ART. 20° L. N° 10237,direct_provision
+COR_PRI_MP03_E1,COR_PRI_MP03,COR3,16,58,El interesado tendrá derecho a conocer toda la documentación,direct_provision
+COR_PRI_MP03_E2,COR_PRI_MP03,COR3,16,59,"recurso de reposición y de apelación, en subsidio, dentro de los diez días de notificado.",direct_provision
+COR_PRI_MP04_E1,COR_PRI_MP04,COR3,4,6,comprende los siguientes grados jerárquicos: Maestro de Grado o Director de Tercera Categoría,search_context
+COR_PRI_CT01_E1,COR_PRI_CT01,COR3,3,4(d),Propender en forma permanente a la ampliación de su cultura y al perfeccionamiento de su formación y capacidad pedagógica.,direct_provision
+COR_PRI_CT01_E2,COR_PRI_CT01,COR3,20,79,"estableciendo a tal efecto, un régimen adecuado de licencias con goce de sueldo y subsidios especiales.",direct_provision
+COR_PRI_CT02_E1,COR_PRI_CT02,COR3,6,"14(e), Antecedentes 1","Cursos de perfeccionamiento y actualización docente oficialmente reconocidos y supervisados, calificables de acuerdo a su importancia y duración.",direct_provision
+COR_PRI_CT03_E1,COR_PRI_CT03,COR3,21,80,deberá dictarse un régimen legal completo y adecuado de licencias en base a lo que establece la Ley 4356.,direct_provision
+COR_PRI_CT03_E2,COR_PRI_CT03,COR1,3,"Guide: titular/interim illness, Law 4356",Corto Tratamiento Art. 3/1: Corresponden 60 días al año continuos o discontinuos.,direct_provision
+COR_PRI_CT03_E3,COR_PRI_CT03,COR1,4,"Guide: substitute illness, Law 9018","Corresponden 30 días, con goce de haberes.",direct_provision
+COR_PRI_CT04_E1,COR_PRI_CT04,COR3,11,30,El mismo día que comience una licencia,direct_provision
+COR_PRI_CT04_E2,COR_PRI_CT04,COR3,12,33(a),"Para toda licencia superior a ocho días, se designará obligatoriamente el correspondiente reemplazante.",direct_provision
+COR_PRI_CT04_E3,COR_PRI_CT04,COR3,11,"27(c), continuation","En estos casos, la suplencia subsistirá hasta el reintegro del titular o vacancia del cargo.",direct_provision
+COR_SEC_AS01_E1,COR_SEC_AS01,COR5,6,10(a),"Los docentes extranjeros podrán ingresar en iguales condiciones que los nacionales siempre que acrediten, además, el conocimiento del idioma castellano;",direct_provision
+COR_SEC_AS01_E2,COR_SEC_AS01,COR5,6,10(c),Poseer el título docente o habilitante o supletorio que reglamentariamente corresponda,direct_provision
+COR_SEC_AS02_E1,COR_SEC_AS02,COR5,7,17,la prueba de oposición se agregará solamente en caso de paridad de puntaje.,direct_provision
+COR_SEC_AS02_E2,COR_SEC_AS02,COR4,2,"Law 10729,2 inserting 17 bis",Los mencionados mecanismos serán determinados mediante decreto reglamentario.,direct_provision
+COR_SEC_AS03_E1,COR_SEC_AS03,COR5,26,139,tendrá derecho de estabilidad en el cargo,direct_provision
+COR_SEC_AS03_E2,COR_SEC_AS03,COR5,26,"143, substituted by Law 10729","Considérase titular, por oposición a suplente y a interino, al docente que poseyendo título docente haya obtenido su cátedra o cargo por concurso y al que resultare confirmado por aplicación del presente Estatuto.",direct_provision
+COR_SEC_AS03_E3,COR_SEC_AS03,COR4,2,"Law 10729,3",Facúltase al Poder Ejecutivo Provincial a titularizar,direct_provision
+COR_SEC_AS04_E1,COR_SEC_AS04,COR5,21,99,"por dos veces consecutivas, una calificación de “Insuficiente”, será pasible de cesantía",direct_provision
+COR_SEC_AS04_E2,COR_SEC_AS04,COR5,25,128,no podrán ser aplicadas sin sumario previo que asigne al afectado el derecho de defensa,direct_provision
+COR_SEC_PR01_E1,COR_SEC_PR01,COR5,8,25,"Los ascensos a los cargos directivos y de inspección se harán por concursos de títulos, antecedentes y oposición.",direct_provision
+COR_SEC_PR01_E2,COR_SEC_PR01,COR5,8,26,al que se agregarán pruebas de oposición en los casos de paridad,direct_provision
+COR_SEC_PR02_E1,COR_SEC_PR02,COR5,18,63,"seis años de antigüedad docente, de los cuales tres deben ser en el nivel y modalidad",direct_provision
+COR_SEC_PR02_E2,COR_SEC_PR02,COR5,17,62,"ocho años de antigüedad docente, cuatro de los cuales deben ser en el nivel y modalidad",direct_provision
+COR_SEC_PR03_E1,COR_SEC_PR03,COR5,18,68-71,DEROGADO POR ART. 29 LEY Nº 6030,direct_provision
+COR_SEC_PR03_E2,COR_SEC_PR03,COR5,5,7(j),La asignación de puntaje por antigüedad además del que corresponde por otros conceptos.,direct_provision
+COR_SEC_PR04_E1,COR_SEC_PR04,COR2,3,"Resolution 7/2024,1",al personal docente de todos los niveles y modalidades dependientes del Gobierno de la Provincia de Córdoba,direct_provision
+COR_SEC_PR04_E2,COR_SEC_PR04,COR2,3,"Resolution 7/2024,1",diez por ciento (10%),direct_provision
+COR_SEC_PR04_E3,COR_SEC_PR04,COR2,4,"Resolution 7/2024,5",a partir del 1° de enero de 2024,direct_provision
+COR_SEC_MP01_E1,COR_SEC_MP01,COR5,20,94,La calificación será anual y apreciará las condiciones y aptitudes del docente;,direct_provision
+COR_SEC_MP01_E2,COR_SEC_MP01,COR5,21,97,será calificado anualmente por el Director y demás personal directivo,direct_provision
+COR_SEC_MP02_E1,COR_SEC_MP02,COR5,9,27(b),Haber merecido concepto no inferior a “Bueno” en los dos últimos años;,direct_provision
+COR_SEC_MP03_E1,COR_SEC_MP03,COR5,20,93,a impugnarla - dentro de los diez días de haberse informado-,direct_provision
+COR_SEC_MP03_E2,COR_SEC_MP03,COR5,20,95,recurso de reconsideración ante la misma autoridad calificadora;,direct_provision
+COR_SEC_MP03_E3,COR_SEC_MP03,COR5,21,"95, continuation",concederá apelación para ante la autoridad jerárquica inmediata,direct_provision
+COR_SEC_MP04_E1,COR_SEC_MP04,COR5,13,50(A)(a),1- Director de Curso o Profesor 2- Vicedirector 3- Director,search_context
+COR_SEC_MP04_E2,COR_SEC_MP04,COR5,7,17 bis,Coordinador de Curso de Nivel Secundario,search_context
+COR_SEC_CT01_E1,COR_SEC_CT01,COR5,4,5(i),"actualizar sus conocimientos científicos, pedagógicos y didácticos y ampliar su cultura general.",direct_provision
+COR_SEC_CT01_E2,COR_SEC_CT01,COR5,18,66,"organizando cursos de perfeccionamiento, conferencias, certámenes, actividades de seminario y reuniones de educadores",direct_provision
+COR_SEC_CT02_E1,COR_SEC_CT02,COR5,18,67,Se asignará puntaje para los antecedentes docentes a quienes documenten haber cumplido satisfactoriamente los requisitos de cursos,direct_provision
+COR_SEC_CT03_E1,COR_SEC_CT03,COR5,5,7(m),"Un año de licencia con goce de sueldo, en todos sus cargos, cada diez años cumplidos en el ejercicio de la docencia",direct_provision
+COR_SEC_CT03_E2,COR_SEC_CT03,COR1,1,Guide cover,Ley Nº 4356 - Reglamentación 1405-95/2805/92,direct_provision
+COR_SEC_CT04_E1,COR_SEC_CT04,COR5,11,42,Para la cobertura de las suplencias e interinatos se convocará en primer término a los docentes que cumplan funciones en el establecimiento,direct_provision
+COR_SEC_CT04_E2,COR_SEC_CT04,COR5,11,44,también por el de las prórrogas de que fuera objeto aquélla.,direct_provision

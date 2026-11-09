@@ -21,7 +21,7 @@ Sources were taken from hyperlinks in `API-209 Final Exercise - 2026 - fv.docx`,
 - Salary filenames do not identify the complete reference period. Check workbook sheets and notes for dates, seniority, workload, currency, and the definition of each salary measure before comparing provinces or years.
 - Keep all sources' original labels. Statutes describe formal rules; these datasets describe conditions and outcomes. Cross-source records are not consistently linkable and do not by themselves support causal claims.
 
-- The course statutes archive contains 23 jurisdiction folders; Misiones is missing. The 51 documents include statutes and related regulations. Obtain the missing Misiones statute before claiming coverage of all 24 jurisdictions.
+- Correction (9 November 2026): the archive has 23 jurisdiction folders, but the Misiones statute was stored inside Mendoza. Its contents identify Misiones; it has been moved locally to `data/raw/statutes/Misiones/`. The archive still retains the original placement. Folder counts alone do not establish jurisdictional coverage or legal completeness.
 
 - `ERCE_2019_QA6.dta` requires `haven::read_dta(path, encoding = "latin1")` in the R installation used for verification. Default encoding produced an invalid byte sequence error; the Latin-1 setting opened the file successfully.
 
