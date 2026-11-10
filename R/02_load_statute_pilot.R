@@ -1,12 +1,15 @@
-# Load and validate the statute coding pilot from the RStudio project root.
+# Load and validate the unified statute coding database from the RStudio project root.
 # Tables are UTF-8 and require no extra R packages.
 if (!file.exists('educ-argentina.Rproj')) stop('Open the educ-argentina RStudio project first.')
 pilot_dir <- 'data/statute_coding'
 read_pilot <- function(name) read.csv(file.path(pilot_dir,name),stringsAsFactors=FALSE,fileEncoding='UTF-8',check.names=FALSE)
-statute_codebook <- read_pilot('codebook_v0_1.csv')
-statute_coding <- read_pilot('pilot_coding.csv')
-statute_evidence <- read_pilot('pilot_evidence.csv')
-statute_documents <- read_pilot('pilot_documents.csv')
+statute_codebook <- read_pilot('codebook.csv')
+statute_coding <- read_pilot('statute_coding.csv')
+statute_evidence <- read_pilot('statute_evidence.csv')
+statute_documents <- read_pilot('statute_documents.csv')
+statute_pending <- read_pilot('pending_decisions.csv')
+statute_coverage <- read_pilot('jurisdiction_coverage.csv')
+statute_review_queue <- read_pilot('review_queue.csv')
 stopifnot(!anyDuplicated(statute_coding$row_id), !anyDuplicated(statute_evidence$evidence_id),
           !anyDuplicated(statute_documents$document_id),
           all(statute_coding$indicator_id %in% statute_codebook$indicator_id),
@@ -31,5 +34,9 @@ message(nrow(statute_coding),' coding decisions; ',nrow(statute_evidence),' evid
         length(unique(statute_coding$province)),' provinces; ',length(unique(statute_coding$case_id)), ' comparison cases.')
 print(with(statute_coding,table(case_id,provision_status)))
 # Example: inspect primary substitute provisions and linked evidence.
-# subset(statute_pilot_full, indicator_id == 'CT04' & case_id != 'COR_SEC')
+# subset(statute_coding, indicator_id == 'CT04' & grepl('_PRI$', case_id))
+# Primary national-reference cases still need their applicability caveats respected.
 # In RStudio's Console: View(statute_coding), View(statute_evidence)
+
+# Current unified evidence join; older name retained for existing notebooks.
+statute_full <- statute_pilot_full

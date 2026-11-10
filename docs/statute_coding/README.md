@@ -1,3 +1,38 @@
+# Unified statute coding database — dataset / codebook 0.3.0
+
+The current first draft has **400 decisions, 773 evidence records, 24 jurisdictions and 25 comparison cases**. All decisions await team review; current legal force is unverified. La Rioja is secondary/higher only, and Neuquén/Río Negro national-reference clauses have unresolved provincial applicability. The count is coverage of supplied material, not proof of 24 comparable primary frameworks.
+
+Start with [the searchable review page](statute_review.html) and [the consolidated pending issues](full_review.md). The review page contains filters, Spanish source pages and the open issue queue. Earlier [CABA](caba_review.md) and [Catamarca](catamarca_review.md) notes describe prior revisions.
+
+## Current files
+
+All tables are UTF-8 under `data/statute_coding/`:
+
+| File | Purpose |
+| --- | --- |
+| `statute_coding.csv` | Main database: one decision per case × indicator. |
+| `statute_evidence.csv` | Spanish excerpts/page context, joined on `row_id`. |
+| `statute_documents.csv` | Source identity, path, page count and checksum; includes context-only sources. |
+| `codebook.csv` | Current questions, descriptive categories and decision rules. |
+| `statute_decisions.json` | Canonical curated decisions used to regenerate the tables and review page. |
+| `pending_decisions.csv` | All 55 unclear and 35 not-found decisions, linked to issue records. |
+| `review_queue.csv` | Open issues, priorities and next actions; provided decisions can also be affected. |
+| `jurisdiction_coverage.csv` | Case counts, status counts, education scope and comparability notes. |
+| `source_review_status.csv` | Cited-record counts, extraction status and source caveats. |
+| `manual_transcriptions.json` | Four selected scan excerpts declared separately from automatic matching. |
+| `statute_validation_report.json` | Structural/provenance checks and their limits. |
+| `revision_log.csv` | Version changes and back-application record. |
+
+Run `source("R/02_load_statute_pilot.R")`, then `View(statute_coding)` or `View(statute_pending)`. The loader needs no extra R packages. `statute_full` is an evidence-expanded join, not the unit for counting decisions. Rebuild with `scripts/export_statute_coding.py`; check with `scripts/validate_statute_coding.py` (requires pypdf).
+
+The batch extends descriptive categories for course-versus-exam promotion, conditional examination routes, suspended appraisal, externally specified attendance additions, insufficient documentation and an explicit cessation exception. The existing 96 decisions and 213 excerpts are substantively unchanged. See [codebook changes](codebook_changes_0_3.md). Original `pilot_*`, `codebook_v0_1.csv` and `codebook_v0_2.csv` are historical snapshots.
+
+New evidence often quotes the full cited PDF page to preserve context when headings or extraction order are unreliable. Article locators identify the relevant clause; adjacent provisions can occur in the quotation. Four manually transcribed excerpts were visually read and are not automatically text-matched. No finding has independent second-coder adjudication. Source matching does not verify the English interpretation, exhaustive absence, provincial applicability or current force.
+
+---
+
+## Original pilot protocol and snapshot documentation
+
 # Provincial statute coding pilot
 
 This first draft codes the supplied documents for Buenos Aires, Misiones and Córdoba against a common codebook. It is ready for team review, not a completed validation of the law currently in force. The pilot has 16 indicators, 64 decisions, 130 Spanish evidence excerpts and seven source PDFs.

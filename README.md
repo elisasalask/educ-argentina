@@ -58,3 +58,7 @@ The first draft covers Buenos Aires, Misiones and Córdoba primary education, wi
 - In RStudio, run `source("R/02_load_statute_pilot.R")` to load the tables.
 
 The review document is local and does not replace or update the earlier hosted context page. The source archive's misplaced Misiones PDF has been identified; it belongs to Misiones, despite its original Mendoza folder.
+
+## Current statute coding database
+
+The unified first draft covers all 24 jurisdictions: 400 decisions across 25 cases and 16 indicators, linked to 773 Spanish evidence records. These are draft formal-rule interpretations, not verified current law. La Rioja lacks primary coverage; Neuquén/Río Negro national-reference clauses remain conditional on provincial applicability. Start at [the review page](docs/statute_coding/statute_review.html) and [the consolidated pending issues](docs/statute_coding/full_review.md). The main R-ready table is [statute_coding.csv](data/statute_coding/statute_coding.csv). Run `source("R/02_load_statute_pilot.R")`, then `View(statute_coding)` or `View(statute_pending)`. All findings await team review.

@@ -1,0 +1,25 @@
+province,case_ids,decisions,provided,excluded,unclear,not_found,education_scope,scope_notes,review_state
+Buenos Aires,PBA_PRI,16,13,0,1,2,Primary; general statutory provisions apply,,awaiting_team_review
+CABA,CABA_PRI,16,15,0,1,0,Primary plus general statutory provisions,,awaiting_team_review
+Catamarca,CAT_PRI,16,12,0,2,2,Primary plus general provisions; appended leadership and implementing instruments distinguished,,awaiting_team_review
+Chaco,CHA_PRI,16,14,0,0,2,Primary plus general statutory provisions,,awaiting_team_review
+Chubut,CHU_PRI,16,14,0,1,1,Primary plus general statutory provisions,,awaiting_team_review
+Corrientes,CTE_PRI,16,14,0,0,2,Primary plus general statutory provisions,,awaiting_team_review
+Córdoba,COR_PRI;COR_SEC,32,27,0,3,2,Primary and initial where statute specifies; Secondary; shared general rules in middle/special/higher statute,,awaiting_team_review
+Entre Ríos,ERI_PRI,16,11,0,3,2,Primary plus general statutory provisions,,awaiting_team_review
+Formosa,FOR_PRI,16,14,0,0,2,Primary plus general statutory provisions,,awaiting_team_review
+Jujuy,JUJ_PRI,16,13,0,1,2,Primary plus general statutory provisions,,awaiting_team_review
+La Pampa,LPA_PRI,16,12,0,3,1,Primary plus general statutory provisions,"UTELPa union compilation dated October2023; primary legislation reproduced with amendments, regulations and collective agreements. Not itself an official current-law consolidation.",awaiting_team_review
+La Rioja,LRJ_SEC,16,15,0,0,1,Secondary; general provisions of Law5289 covering secondary and higher education; primary source missing,,awaiting_team_review
+Mendoza,MEN_PRI,16,15,0,0,1,Primary plus general statutory provisions,,awaiting_team_review
+Misiones,MIS_PRI,16,14,0,0,2,Primary plus general provisions,,awaiting_team_review
+Neuquén,NQN_PRI,16,2,0,14,0,Primary national-reference candidate; provincial applicability unresolved except explicitly provincial supplement,National-reference clauses recorded conditionally; local applicability/adaptations need verification. Do not count unclear candidate mechanisms as settled provincial provisions.,awaiting_team_review
+Río Negro,RNE_PRI,16,0,0,16,0,Primary national-reference candidate; provincial applicability unresolved except explicitly provincial supplement,National-reference clauses recorded conditionally; local applicability/adaptations need verification. Do not count unclear candidate mechanisms as settled provincial provisions.,awaiting_team_review
+Salta,SAL_PRI,16,14,0,0,2,Primary plus general statutory provisions,,awaiting_team_review
+San Juan,SJU_PRI,16,13,0,1,2,Primary plus general statutory provisions,,awaiting_team_review
+San Luis,SLU_PRI,16,15,0,0,1,Primary plus general statutory provisions,,awaiting_team_review
+Santa Cruz,SCR_PRI,16,14,0,0,2,Primary plus general statutory provisions,Law1023 article1 visually read and manually transcribed. National text coded subject to non-conflict clause; supplied Law3350 amendment concerns classification boards and is not treated as independent proof of every later local adaptation.,awaiting_team_review
+Santa Fe,SFE_PRI,16,8,0,7,1,Primary plus general statutory provisions,Career and school regulations rather than one complete employment statute. Decree3029/12 concordance is referential; Decree586/2024 attendance incentive has an express original one-year term.,awaiting_team_review
+Santiago del Estero,SDE_PRI,16,13,0,2,1,Primary plus general statutory provisions,,awaiting_team_review
+Tierra del Fuego,TDF_PRI,16,14,0,0,2,Primary plus general statutory provisions,,awaiting_team_review
+Tucumán,TUC_PRI,16,14,0,0,2,Primary plus general statutory provisions,"Law9765 scan visually reviewed on all five pages: board organization, functions, resolution appeals and elections; selected relevant clauses manually transcribed. Statute extraction defects and full current consolidation remain pending.",awaiting_team_review

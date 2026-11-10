@@ -1,0 +1,52 @@
+{
+  "coded_date": "2026-11-09",
+  "codebook_version": "0.3.0",
+  "dataset_revision": "0.3.0",
+  "coding_decisions": 400,
+  "evidence_excerpts": 773,
+  "automatically_matched_excerpts": 769,
+  "manual_transcriptions_requiring_second_review": 4,
+  "documents": 51,
+  "provinces": 24,
+  "comparison_cases": 25,
+  "status_counts": {
+    "provided": 310,
+    "unclear": 55,
+    "not_found": 35
+  },
+  "checks_passed": true,
+  "errors": [],
+  "checks": [
+    "Case/indicator completeness against canonical master",
+    "CSV exports match canonical decisions",
+    "Keys and joins, including pending decisions and issue links",
+    "Jurisdiction coverage and conditional national-reference status",
+    "Permitted status and descriptive codes",
+    "PDF existence, SHA-256 and page count",
+    "Exact whitespace-normalized extractable excerpt on cited PDF page; manual transcriptions checked against declared manifest separately"
+  ],
+  "selected_pages_visually_inspected": [
+    "PBA1:18",
+    "MIS1:6",
+    "COR3:19",
+    "COR5:9",
+    "COR2:3",
+    "COR4:2",
+    "CAT1:141",
+    "CAT1:142",
+    "D31:1",
+    "D33:1",
+    "D33:2",
+    "D33:3",
+    "D50:1",
+    "D50:2",
+    "D50:3",
+    "D50:4",
+    "D50:5"
+  ],
+  "limitations": [
+    "Source matching does not validate English interpretations or prove absence.",
+    "No independent second coder or adjudication; manual scan transcriptions are not automatically verified.",
+    "Current legal force and completeness of external regulations not verified."
+  ]
+}

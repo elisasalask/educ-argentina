@@ -1,0 +1,42 @@
+[
+  {
+    "evidence_id": "SCR_PRI_AS01_E3",
+    "row_id": "SCR_PRI_AS01",
+    "document_id": "D31",
+    "pdf_page": 1,
+    "article": "Law1023,1",
+    "excerpt_es": "El Personal Docente de la Provincia sin excepción se regirá, en lo que no se oponga a las leyes provinciales por la Ley Nacional N° 14.473 (Estatuto del Docente).",
+    "evidence_role": "manual_transcription",
+    "verification": "Visually read from supplied scan by first coder; independent second review pending"
+  },
+  {
+    "evidence_id": "TUC_PRI_MP03_E3",
+    "row_id": "TUC_PRI_MP03",
+    "document_id": "D50",
+    "pdf_page": 4,
+    "article": "Law9765 art1(8), substituted art53",
+    "excerpt_es": "En caso de disconformidad con las resoluciones que emitan las Juntas, el docente podrá interponer recurso de reposición ante las mismas y de apelación en subsidio ante el Ministerio de Educación.",
+    "evidence_role": "manual_transcription",
+    "verification": "Visually read from supplied scan by first coder; independent second review pending"
+  },
+  {
+    "evidence_id": "TUC_PRI_CT02_E3",
+    "row_id": "TUC_PRI_CT02",
+    "document_id": "D50",
+    "pdf_page": 3,
+    "article": "Law9765 art1(7), substituted art52(1)",
+    "excerpt_es": "Registrar los títulos docentes y los diversos cursos de capacitación debidamente acreditados y su ponderación según la grilla respectiva;",
+    "evidence_role": "manual_transcription",
+    "verification": "Visually read from supplied scan by first coder; independent second review pending"
+  },
+  {
+    "evidence_id": "TUC_PRI_CT04_E4",
+    "row_id": "TUC_PRI_CT04",
+    "document_id": "D50",
+    "pdf_page": 3,
+    "article": "Law9765 art1(7), substituted art52(4)",
+    "excerpt_es": "Confeccionar padrones anuales para interinatos y suplencias en cargos y/u horas cátedra.",
+    "evidence_role": "manual_transcription",
+    "verification": "Visually read from supplied scan by first coder; independent second review pending"
+  }
+]
