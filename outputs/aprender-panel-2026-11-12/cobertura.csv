@@ -1,0 +1,17 @@
+﻿anio,nivel,grado,operativo,registros,escuelas,provincias_observadas,sector_sin_clasificar,materias,archivo,alcance
+2016,Secundaria,2.º/3.º año,Muestral,60804,3342,24,0,"Lengua, Matemática",Aprender_2016_Estudiantes_2_3grado_Secundaria_Muestral.csv,Muestra; dominio provincia-sector requiere validar precisión
+2016,Primaria,3.º grado,Muestral,57325,3490,24,0,"Lengua, Matemática",Aprender_2016_Estudiantes_3grado_Primaria_Muestral.csv,Muestra; dominio provincia-sector requiere validar precisión
+2016,Secundaria,5.º/6.º año,Censal,331852,10045,24,20,"Lengua, Matemática, Ciencias Naturales, Ciencias Sociales",Aprender_2016_Estudiantes_5_6grado_Secundaria_Censal.csv,Censal
+2016,Primaria,6.º grado,Censal,561950,19460,24,9,"Lengua, Matemática",Aprender_2016_Estudiantes_6grado_Primaria_Censal.csv,Censal
+2017,Secundaria,5.º/6.º año,Censal,316015,10424,24,0,"Lengua, Matemática",Aprender_2017_Estudiantes_5_6grado_Secundaria_Censal.csv,Censal
+2017,Primaria,6.º grado,Censal,578990,19653,24,0,"Ciencias Naturales, Ciencias Sociales",Aprender_2017_Estudiantes_6grado_Primaria_Censal.csv,Censal
+2018,Primaria,6.º grado,Censal,585292,19957,24,0,"Lengua, Matemática",Aprender_2018_Estudiantes_6grado_Primaria_Censal.csv,Censal
+2019,Secundaria,5.º/6.º año,Censal,343750,11011,23,0,"Lengua, Matemática",Aprender_2019_Estudiantes_5_6grado_Secundaria_Censal.csv,Censal
+2019,Secundaria,5.º/6.º año,Muestral,15288,290,,0,"Ciencias Naturales, Educación Ciudadana",Aprender_2019_Estudiantes_5_6grado_Secundaria_Muestral.csv,País y sector; no representativa por provincia
+2021,Primaria,6.º grado,Censal,635515,19980,24,0,"Lengua, Matemática",Aprender_2021_Estudiantes_6grado_Primaria_Censal.csv,Censal
+2022,Secundaria,5.º/6.º año,Censal,403468,11749,24,0,"Lengua, Matemática",Aprender_2022_Estudiantes_5_6grado_Secundaria_Censal.csv,Censal
+2022,Primaria,6.º grado,Muestral,128482,3764,24,0,"Lengua, Matemática",Aprender_2022_Estudiantes_6grado_Primaria_Muestral.csv,Muestra; dominio provincia-sector requiere validar precisión
+2023,Primaria,6.º grado,Censal,642006,19834,24,0,"Lengua, Matemática",Aprender_2023_Estudiantes_6grado_Primaria_Censal.csv,Censal
+2024,Primaria,3.º grado,Muestral,91264,4177,24,0,Lengua,Aprender_2024_Estudiantes_3grado_Primaria_Muestral.csv,Muestra; dominio provincia-sector requiere validar precisión
+2024,Secundaria,5.º/6.º año,Censal,386882,11947,24,0,"Lengua, Matemática",Aprender_2024_Estudiantes_5_6grado_Secundaria_Censal.csv,Censal
+2025,Primaria,6.º grado,Censal,641150,19528,24,0,"Lengua, Matemática",Aprender_2025_Estudiantes_6grado_Primaria_Censal.csv,Censal

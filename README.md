@@ -48,6 +48,14 @@ https://argentina-teaching-careers-context.politecourt.chatgpt.site
 
 `R/01_build_context_data.R` generates the aggregate datasets used by the page. Run it from this RStudio project after installing `readxl` and `jsonlite` if needed. It writes aggregates to the sibling `teaching-careers-context/dist/` directory; it does not rebuild or deploy the full website. School-level identifiers and individual questionnaire records are not included in website assets. The statutory comparison remains a research framework, not a completed legal coding exercise.
 
+## Aprender province-sector aggregates
+
+The nine supplied editions (2016–2025) are available as aggregate CSVs and a filterable Excel workbook under `outputs/aprender-panel-2026-11-12/`. The provincial dataset has 720 rows, one per province, year, level, evaluated grade group and sector. Original score-variable names are retained as columns; their values are weighted group means. Derived counts and proportions have explicit names. Raw student records are not included.
+
+In RStudio, run `source("R/03_load_aprender_panel.R")` and `View(aprender_panel)`. No additional R packages or raw downloads are needed to load the committed aggregates. Read the output folder's `LEEME.md` for coverage, missing observations, original variable names and interpretation limits. The 2019 science/citizenship sample is national by sector only. Literacy 2024 uses its own performance scale. Survey uncertainty and full temporal comparability have not been established.
+
+To regenerate the CSVs from the original local downloads, use Python with pandas and numpy: `python scripts/build_aprender_panel.py`. This also refreshes the local ignored copies in `data/processed/`. It does not regenerate the Excel workbook.
+
 ## Statute coding pilot
 
 The first draft covers Buenos Aires, Misiones and Córdoba primary education, with Córdoba secondary stored as a separate extension. It includes 16 indicators, 64 decisions, 130 source excerpts and a review queue. All decisions await team review; current legal force is not verified.
